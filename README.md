@@ -1,9 +1,7 @@
 # Brief
 
   The repos is to show the implementation of AI and 3D.   
-  AI is a trend for the nex-gen vision based technologies.     
-  The repos is also included with 3D + AI net such as pointnet, pointnet++, modelnet, VGG16 implementation or framework introduction.   
-  The repos is also included with 3D domain implementation or framework introduction.   
+  AI is a trend for the nex-gen vision based technologies.
  
 # Action items
   
